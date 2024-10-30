@@ -38,6 +38,6 @@ This project was inspired by the need for a simple and effective age calculation
 
 ## Author
 
-- **Abhishek Gurjar**
-  - [GitHub Profile](https://github.com/abhishekgurjar-in)
+- **CHUNDURI SAI SRINIVAS**
+  - [GitHub Profile](https://github.com/Srinivas981)
 
